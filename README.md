@@ -1,20 +1,30 @@
 # Beyond Quantum
 A real-time strategy about quantum physics and beyond
 
+## Concept
+
+Quantum theory is an unfinished story. Because of the so-called "[measurement problem](https://en.wikipedia.org/wiki/Measurement_problem)", no one knows if it is ultimately correct. Various alternative possibilities have been studied by scientists such as Einstein, Wigner, de Broglie to go beyond standard quantum theory formulated by scientists such as Bohr.
+
+In Beyond Quantum, these scientists come back live in a real-time strategy game setting! What's more, they embody features of nonlocality, determinism, consciousness-collapse, and tunnelling, to personify their own scientific thoughts and theories!
+
+## Target audience
+
+Everyone, with or without an interest in quantum physics. Absolutely no prerequisite knowledge is required to enjoy the game!
+
 ## Game instructions
 ### Goal
 
-Beyond Quantum University trains scientists such as . Preserve your own Beyond Quantum University and bring down others'!
+In the Beyond Quantum land, several Beyond Quantum University train scientists to personify quantum physics and beyond. You are in charge of one of them. Preserve your own university under the competition of others'!
 
-Achieve this by engaging your scientists to debates with other scientists and universities!
+You can achieve this by training scientists and letting them engage in combats with other scientists and universities.
 
 ### Control
 
 - Select unit/building: Left click mouse. 
 - Move unit/attack: Right click mouse.
-- Zoom in/out: Use keys Z/X or mouse wheel
+- Zoom in/out: Use keys Z/X or mouse wheel.
 - Scroll camera: Move mouse to border, or use keys W/S/A/S (alternatively use keys up/down/left/right).
-- Rotate camera: Use keys G/H for left/right rotation. Hold mouse right click for arbitrary directions.
+- Rotate camera: Use keys G/H for left/right rotation. Hold mouse right button and move cursor to rotate in arbitrary directions.
 
 ### Population
 
@@ -27,20 +37,20 @@ To gather talents, send Wigner with his friend pupil to the school and back. Eac
 
 ### Scientists
 
-Trained by spending talents.
 - Wigner. Gathers talents.
 - De Broglie. Attacks nonlocally..
 - Bohr. Tunnels through obstacles.
 - Einstein. Attacks with tremendous powern.
 
-### Advanced operations:
+### Advanced operations
 
 Combat units can be moved inside the university for defence. Use the university bottom panel to summon nearby units, or to eject summoned units.
 
+## Backgrounds
 
-## Quotes behind the audio voice effects
+### Quotes behind the audio voice effects
 
-### Quotes from Niels Bohr:
+#### Quotes from Niels Bohr
 
 "Prediction is very difficult, especially about the future."
 
@@ -54,7 +64,7 @@ Combat units can be moved inside the university for defence. Use the university 
 
 "Never express yourself more clearly than you are able to think."
 
-### Quotes from Albert Einstein:
+#### Quotes from Albert Einstein
 
 "Life is like riding a bicycle. To keep your balance, you must keep moving."
 
@@ -68,7 +78,7 @@ Combat units can be moved inside the university for defence. Use the university 
 
 "Try not to become a man of success, but rather try to become a man of value."
 
-### Quotes from Eugene Wigner:
+#### Quotes from Eugene Wigner
 
 "The laws of quantum mechanics itself cannot be formulated ... without recourse to the concept of consciousness."
 
@@ -76,7 +86,7 @@ Combat units can be moved inside the university for defence. Use the university 
 
 "The Unreasonable Effectiveness of Mathematics"
 
-### Quotes from Louis de Broglie:
+#### Quotes from Louis de Broglie
 
 "The electron can no longer be conceived as a single, small granule of electricity; it must be associated with a wave, and this wave is no myth; its wavelength can be measured and its interferences predicted."
 
