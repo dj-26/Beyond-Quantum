@@ -9,7 +9,7 @@ In Beyond Quantum, these figures come back live in a real-time strategy game! Wh
 
 ## Target audience
 
-Everyone, with or without an interest in quantum physics. Absolutely no prerequisite knowledge is required to enjoy the game! (Although your interested in contemporary debates about the [foundations of quantum physics](https://github.com/dj-26/Beyond-Quantum/main/README.md#scientific-backgrounds) probably will be kindled by the game.)
+Everyone, with or without an interest in quantum physics. Absolutely no prerequisite knowledge is required to enjoy the game! (Although your interested in contemporary debates about the [foundations of quantum physics](https://github.com/dj-26/Beyond-Quantum/tree/main#core-notions-of-beyond-quantum) probably will be kindled by the game.)
 
 ## Game instructions
 ### Goal
@@ -36,10 +36,10 @@ To gather talents, send Wigner with his friend pupil to the school and back. Eac
 ### Scientists
 
 Four kinds of scientists can be trained at your university:
-- [Wigner](https://github.com/dj-26/Beyond-Quantum/edit/main/README.md#bohr-and-tunneling). Gathers talents. He accompanies pupils to school bring them back as talents!
-- [De Broglie](https://github.com/dj-26/Beyond-Quantum/edit/main/README.md#bohr-and-tunneling). Debates nonlocally. He could launch an attack from anywhere on the map!
-- [Einstein](https://github.com/dj-26/Beyond-Quantum/edit/main/README.md#bohr-and-tunneling). Debates with tremendous precision. He brings about devastating damages to his opponents!
-- [Bohr](https://github.com/dj-26/Beyond-Quantum/main/README.md#bohr-and-tunneling). Defies obstacles in movements. 
+- [Wigner](https://github.com/dj-26/Beyond-Quantum/tree/main#wigner-and-friends). Gathers talents. He accompanies pupils to school bring them back as talents!
+- [De Broglie](https://github.com/dj-26/Beyond-Quantum/tree/main#de-broglie-and-nonlocality). Debates nonlocally. He could launch an attack from anywhere on the map!
+- [Einstein](https://github.com/dj-26/Beyond-Quantum/tree/main#einstein-and-determinism). Debates with tremendous precision. He brings about devastating damages to his opponents!
+- [Bohr](#bohr-and-tunneling). Defies obstacles in movements. 
 
 ### Advanced operations
 
